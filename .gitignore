@@ -4,8 +4,11 @@
 # Log file
 *.log
 
-# Log file
+# image file
 *.svg
+
+# vim temporal file
+*.swp
 
 # BlueJ files
 *.ctxt
